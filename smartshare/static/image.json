@@ -1,0 +1,26 @@
+{
+    "image":[
+        {"src":"/static/gg.jpg",
+        "name":"Hill Air",
+        "dec":"vase"
+        },
+        {"src":"/static/gg2.jpg",
+        "name":"Evening",
+        "dec":"lamps"
+        },
+        {"src":"/static/gg3.jpg",
+        "name":"Jinse",
+        "dec":"Bedding"
+        },
+        {"src":"/static/gg4.jpg",
+        "name":"Panel",
+        "dec":"Bedside"
+        },
+        {"src":"/static/gg5.jpg",
+        "name":"Iuca nichetto",
+        "dec":"Containers"
+        },
+        {"src":"/static/gg6.jpg",
+        "name":"Lily chair","dec":"chair"}
+    ]
+}
